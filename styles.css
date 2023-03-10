@@ -1,0 +1,17 @@
+body {
+    background: blue;
+    h1 {
+        font-size: 12.25em;
+        line-height: 1em;
+        letter-spacing: .00em;
+        margin-bottom: 2px;
+      }
+      
+      h2 {
+        font-size: 4.2em;
+        line-height: 1em;
+        letter-spacing: .10em;
+        margin-bottom: 2px;
+      }
+      
+  }
